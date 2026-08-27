@@ -2,6 +2,10 @@
 
 SQL case study analyzing revenue, cost, gross profit, and customer concentration across products and regions.
 
+## Profitability visualization
+
+![Profit contribution by product](project-overview.svg)
+
 ## Questions answered
 
 - Which products generate the highest gross profit?
@@ -17,4 +21,3 @@ sqlite3 finance.db < analysis.sql
 ```
 
 The project demonstrates joins, aggregations, window functions, CTEs, ranking, and finance-focused KPI calculations using synthetic transactions.
-
