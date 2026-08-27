@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img">
+<rect width="1000" height="560" rx="18" fill="#f8fafc"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a">Profit Contribution by Product</text>
+<text x="55" y="88" font-family="Arial,sans-serif" font-size="15" fill="#5b6575">SQL-derived gross profit across the transaction dataset</text>
+<text x="280" y="147" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Automation</text>
+<rect x="300" y="125" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="125" width="590.0" height="30" rx="6" fill="#0f766e"/>
+<text x="902.0" y="146" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$64K</text>
+<text x="280" y="223" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Analytics</text>
+<rect x="300" y="201" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="201" width="539.5" height="30" rx="6" fill="#2563eb"/>
+<text x="851.5" y="222" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$59K</text>
+<text x="280" y="299" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Reporting</text>
+<rect x="300" y="277" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="277" width="346.5" height="30" rx="6" fill="#d97706"/>
+<text x="658.5" y="298" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$38K</text>
+<text x="945" y="535" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">Synthetic portfolio data • Meghna Sarmah</text>
+</svg>
